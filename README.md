@@ -1,5 +1,3 @@
-# 💫 About Me:
-<h2>Student who has just started studying</h2> 
 <p>see more about me <a href="https://zixxfr.vercel.app/">here</a></p>
 
 
